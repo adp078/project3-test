@@ -7,14 +7,6 @@ requests
 fastapi==0.65.2
 uvicorn
 gunicorn
-<<<<<<< HEAD
 flake8
 dvc
 dvc[s3]
-||||||| 3c1040e
-flake8
-=======
-flake8
-dvc
-dvc[s3]
->>>>>>> 3a86b1ae526dd9430f116f578257c228b040cc21
